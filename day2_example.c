@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    /*< 사전 선정 정보 > -> md 로봇 150
+    /*< 사전 선정 정보 > -> md 로봇 (MDH 150)
     평균 전류(Rated current) : 8A
     평균 속도(Rated linear velocity) : 6.4km/h
     예비율 (임의로 선택) : 0.1 = 10%
