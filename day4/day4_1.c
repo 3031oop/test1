@@ -55,6 +55,6 @@ int main(void){
     double grade = tan(theta_rad) * 100;
 
     printf("총 가용 견인력: %.2lf N\n", Favail);
-    printf("등판 가능 최대각: %.2lf\n", deg_max);
+    printf("등판 가능 최대각: %.2lf\n", theta_rad);
     printf("등판율: %.2lf %%\n", grade);
 }
