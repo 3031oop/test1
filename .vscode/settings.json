@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "day5_exam_plus": "c"
+        "day5_exam_plus": "c",
+        "string.h": "c"
     }
 }
